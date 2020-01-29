@@ -4,7 +4,7 @@ date: 2020-01-11 08:16:14
 tags: nginx
 ---
 
- nginx 基础， 静态服务器，反向代理，负载均衡，虚拟主机，FastCGI
+ nginx 基础：静态服务器，反向代理，负载均衡，虚拟主机，FastCGI
 
 > [十分钟入门Nginx基本功能](https://cloud.tencent.com/developer/article/1442657) 
 
