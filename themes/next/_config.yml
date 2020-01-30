@@ -945,6 +945,9 @@ vendors:
   # lazyload: //cdn.jsdelivr.net/npm/lozad@1/dist/lozad.min.js
   # lazyload: //cdnjs.cloudflare.com/ajax/libs/lozad.js/1.9.0/lozad.min.js
   lazyload:
+  enable: true
+  onlypost: false
+  # loadingImg: /images/loading.png
 
   # Pangu
   # pangu: //cdn.jsdelivr.net/npm/pangu@4/dist/browser/pangu.min.js
