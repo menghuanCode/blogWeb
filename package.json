@@ -24,7 +24,7 @@
     "hexo-server": "^1.0.0"
   },
   "scripts": {
-    "nodemon": "nodemon app",
+    "nodemon": "nodemon index.js",
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
