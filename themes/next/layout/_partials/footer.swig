@@ -69,5 +69,6 @@
     <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ theme.add_this_id }}" async="async"></script>
   </div>
 {%- endif %}
-
 {{- next_inject('footer') }}
+<span class="post-meta-divider">|</span>
+备案号：<a href="http://www.beian.miit.gov.cn">粤ICP备19092520号-2</a>
